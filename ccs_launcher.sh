@@ -1,2 +1,2 @@
 #!/bin/bash
-GTK_THEME=adwaita /home/jvata/Programs/ti/ccs1270/ccs/eclipse/ccstudio
+GTK_THEME=adwaita /home/jvata/ti/ccs1280/ccs/eclipse/ccstudio
